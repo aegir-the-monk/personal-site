@@ -1,0 +1,10 @@
+body {background-color:#ece2d0;
+      font-family: sans-serif;}
+h1 {color:#582c4d;}
+h3 {color:#582c4d;}
+p {color:#3b3331;}
+hr {
+    width: 10%;
+    border-style: none;
+    border-top: 6px dotted #3b3331;
+    }
